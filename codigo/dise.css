@@ -1,0 +1,33 @@
+.marco {
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    padding: 35;
+}
+
+.tl {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fr{
+    background-color: bisque;
+}
+.fd{
+    background-color: bisque;
+    justify-content: center;
+    padding: 35;
+}
+.contac{
+    display: flex;
+    justify-content: center;
+    padding: 35;
+}
+.img-1{
+    margin-right: 30px;
+}
+.img-2{
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.img-3{
+    margin-left: 30px;
+}
